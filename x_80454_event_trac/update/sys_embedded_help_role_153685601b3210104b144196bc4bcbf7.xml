@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_80454_event_trac.event_tracker_user" name="x_80454_event_trac.event_tracker_user">553685601b3210104b144196bc4bcbf4</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-19 18:25:59</sys_created_on>
+        <sys_id>153685601b3210104b144196bc4bcbf7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>553685601b3210104b144196bc4bcbf4</sys_name>
+        <sys_package display_value="Event Tracker" source="x_80454_event_trac">2c2685e01b3210104b144196bc4bcb0f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Tracker">2c2685e01b3210104b144196bc4bcb0f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_153685601b3210104b144196bc4bcbf7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-19 18:25:59</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
